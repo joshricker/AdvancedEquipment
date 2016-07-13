@@ -1,0 +1,10 @@
+{
+	"name":"AdvancedEquipment",
+	"author":"Darius456, Codec",
+	"version":"0.9.2",
+	"title":"AdvancedEquipment",
+	"factorio_version": "0.13",
+	"homepage":"",
+	"description":"Better Equipment... MKII, MKIII,... etc.",
+	"dependencies": ["base"]
+}
