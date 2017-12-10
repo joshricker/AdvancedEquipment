@@ -25,6 +25,7 @@ data:extend(
       input_flow_limit = "720KW",
       usage_priority = "primary-input"
     },
+	categories = {"armor"},
     energy_per_shield = "30KJ"
   },
   {
@@ -51,6 +52,7 @@ data:extend(
       input_flow_limit = "1080KW",
       usage_priority = "primary-input"
     },
+	categories = {"armor"},
     energy_per_shield = "30KJ"
   },
   {
@@ -77,6 +79,7 @@ data:extend(
       input_flow_limit = "1800KW",
       usage_priority = "primary-input"
     },
+	categories = {"armor"},
     energy_per_shield = "30KJ"
   },
   {
@@ -103,6 +106,7 @@ data:extend(
       input_flow_limit = "2880KW",
       usage_priority = "primary-input"
     },
+	categories = {"armor"},
     energy_per_shield = "30KJ"
   },
   {
@@ -129,6 +133,7 @@ data:extend(
       input_flow_limit = "5040KW",
       usage_priority = "primary-input"
     },
+	categories = {"armor"},
     energy_per_shield = "30KJ"
   },
 
@@ -157,6 +162,7 @@ data:extend(
       type = "electric",
       usage_priority = "primary-output"
     },
+	categories = {"armor"},
     power = "1200KW"
   },
   {
@@ -180,6 +186,7 @@ data:extend(
       type = "electric",
       usage_priority = "primary-output"
     },
+	categories = {"armor"},
     power = "1650KW"
   },
   {
@@ -203,6 +210,7 @@ data:extend(
       type = "electric",
       usage_priority = "primary-output"
     },
+	categories = {"armor"},
     power = "2100KW"
   },
   {
@@ -226,6 +234,7 @@ data:extend(
       type = "electric",
       usage_priority = "primary-output"
     },
+	categories = {"armor"},
     power = "2550KW"
   },
   {
@@ -249,6 +258,7 @@ data:extend(
       type = "electric",
       usage_priority = "primary-output"
     },
+	categories = {"armor"},
     power = "3000KW"
   },
   {
@@ -272,6 +282,7 @@ data:extend(
       type = "electric",
       usage_priority = "primary-output"
     },
+	categories = {"armor"},
     power = "3500KW"
   },
 
@@ -306,7 +317,7 @@ data:extend(
       type = "projectile",
       ammo_category = "electric",
       cooldown = 15,
-      damage_modifier = 6.0,
+      damage_modifier = 15,
       projectile_center = {0, 0},
       projectile_creation_distance = 0.6,
       range = 20,
@@ -334,6 +345,7 @@ data:extend(
         }
       }
     },
+	categories = {"armor"},
     automatic = true
   },
     {
@@ -362,8 +374,8 @@ data:extend(
     {
       type = "projectile",
       ammo_category = "electric",
-      cooldown = 10,
-      damage_modifier = 14,
+      cooldown = 12,
+      damage_modifier = 17,
       projectile_center = {0, 0},
       projectile_creation_distance = 0.6,
       range = 20,
@@ -391,6 +403,7 @@ data:extend(
         }
       }
     },
+	categories = {"armor"},
     automatic = true
   },
     {
@@ -420,7 +433,7 @@ data:extend(
       type = "projectile",
       ammo_category = "electric",
       cooldown = 8,
-      damage_modifier = 20.0,
+      damage_modifier = 19,
       projectile_center = {0, 0},
       projectile_creation_distance = 0.6,
       range = 25,
@@ -448,6 +461,7 @@ data:extend(
         }
       }
     },
+	categories = {"armor"},
     automatic = true
   },
     {
@@ -477,7 +491,7 @@ data:extend(
       type = "projectile",
       ammo_category = "electric",
       cooldown = 6,
-      damage_modifier = 24.0,
+      damage_modifier = 21,
       projectile_center = {0, 0},
       projectile_creation_distance = 0.6,
       range = 25,
@@ -505,6 +519,7 @@ data:extend(
         }
       }
     },
+	categories = {"armor"},
     automatic = true
   },
     {
@@ -534,7 +549,7 @@ data:extend(
       type = "projectile",
       ammo_category = "electric",
       cooldown = 6,
-      damage_modifier = 32.0,
+      damage_modifier = 23,
       projectile_center = {0, 0},
       projectile_creation_distance = 0.6,
       range = 27,
@@ -562,6 +577,7 @@ data:extend(
         }
       }
     },
+	categories = {"armor"},
     automatic = true
   },
     {
@@ -591,7 +607,7 @@ data:extend(
       type = "projectile",
       ammo_category = "electric",
       cooldown = 5,
-      damage_modifier = 40.0,
+      damage_modifier = 25.0,
       projectile_center = {0, 0},
       projectile_creation_distance = 0.6,
       range = 35,
@@ -619,6 +635,7 @@ data:extend(
         }
       }
     },
+	categories = {"armor"},
     automatic = true
   },
 
@@ -641,6 +658,7 @@ data:extend(
       height = 2,
       type = "full"
     },
+	categories = {"armor"},
     energy_source =
     {
       type = "electric",
@@ -666,6 +684,7 @@ data:extend(
       height = 2,
       type = "full"
     },
+	categories = {"armor"},
     energy_source =
     {
       type = "electric",
@@ -691,6 +710,7 @@ data:extend(
       height = 2,
       type = "full"
     },
+	categories = {"armor"},
     energy_source =
     {
       type = "electric",
@@ -716,6 +736,7 @@ data:extend(
       height = 2,
       type = "full"
     },
+	categories = {"armor"},
     energy_source =
     {
       type = "electric",
@@ -741,6 +762,7 @@ data:extend(
       height = 2,
       type = "full"
     },
+	categories = {"armor"},
     energy_source =
     {
       type = "electric",
@@ -777,6 +799,7 @@ data:extend(
       type = "electric",
       usage_priority = "secondary-input"
     },
+	categories = {"armor"},
     energy_consumption = "300KW",
     movement_bonus = 0.45
   },
@@ -801,6 +824,7 @@ data:extend(
       type = "electric",
       usage_priority = "secondary-input"
     },
+	categories = {"armor"},
     energy_consumption = "400KW",
     movement_bonus = 0.6
   },
@@ -825,6 +849,7 @@ data:extend(
       type = "electric",
       usage_priority = "secondary-input"
     },
+	categories = {"armor"},
     energy_consumption = "500KW",
     movement_bonus = 0.75
   },
@@ -849,6 +874,7 @@ data:extend(
       type = "electric",
       usage_priority = "secondary-input"
     },
+	categories = {"armor"},
     energy_consumption = "600KW",
     movement_bonus = 0.9
   },
@@ -873,6 +899,7 @@ data:extend(
       type = "electric",
       usage_priority = "secondary-input"
     },
+	categories = {"armor"},
     energy_consumption = "700KW",
     movement_bonus = 1.05
   },
@@ -897,6 +924,7 @@ data:extend(
       type = "electric",
       usage_priority = "secondary-input"
     },
+	categories = {"armor"},
     energy_consumption = "800KW",
     movement_bonus = 1.2
   },
@@ -921,6 +949,7 @@ data:extend(
       height = 1,
       type = "full"
     },
+	categories = {"armor"},
     energy_source =
     {
       type = "electric",
@@ -946,6 +975,7 @@ data:extend(
       height = 1,
       type = "full"
     },
+	categories = {"armor"},
     energy_source =
     {
       type = "electric",
@@ -971,6 +1001,7 @@ data:extend(
       height = 1,
       type = "full"
     },
+	categories = {"armor"},
     energy_source =
     {
       type = "electric",
@@ -996,6 +1027,7 @@ data:extend(
       height = 1,
       type = "full"
     },
+	categories = {"armor"},
     energy_source =
     {
       type = "electric",
@@ -1021,6 +1053,7 @@ data:extend(
       height = 1,
       type = "full"
     },
+	categories = {"armor"},
     energy_source =
     {
       type = "electric",

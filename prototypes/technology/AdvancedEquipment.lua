@@ -4,6 +4,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-energy-shield-mk3-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/energy-shield-mk3-equipment.png",
     prerequisites = {"energy-shield-mk2-equipment"},
     effects =
@@ -24,6 +25,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-energy-shield-mk4-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/energy-shield-mk4-equipment.png",
     prerequisites = {"adv-energy-shield-mk3-equipment"},
     effects =
@@ -44,6 +46,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-energy-shield-mk5-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/energy-shield-mk5-equipment.png",
     prerequisites = {"adv-energy-shield-mk4-equipment"},
     effects =
@@ -64,6 +67,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-energy-shield-mk6-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/energy-shield-mk6-equipment.png",
     prerequisites = {"adv-energy-shield-mk5-equipment"},
     effects =
@@ -84,6 +88,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-energy-shield-mk7-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/energy-shield-mk7-equipment.png",
     prerequisites = {"adv-energy-shield-mk6-equipment"},
     effects =
@@ -107,6 +112,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-fusion-reactor-mk2-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/fusion-reactor-mk2-equipment.png",
     prerequisites = {"fusion-reactor-equipment"},
     effects =
@@ -127,6 +133,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-fusion-reactor-mk3-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/fusion-reactor-mk3-equipment.png",
     prerequisites = {"adv-fusion-reactor-mk2-equipment"},
     effects =
@@ -147,6 +154,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-fusion-reactor-mk4-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/fusion-reactor-mk4-equipment.png",
     prerequisites = {"adv-fusion-reactor-mk3-equipment"},
     effects =
@@ -167,6 +175,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-fusion-reactor-mk5-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/fusion-reactor-mk5-equipment.png",
     prerequisites = {"adv-fusion-reactor-mk4-equipment"},
     effects =
@@ -187,6 +196,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-fusion-reactor-mk6-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/fusion-reactor-mk6-equipment.png",
     prerequisites = {"adv-fusion-reactor-mk5-equipment"},
     effects =
@@ -207,6 +217,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-fusion-reactor-mk7-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/fusion-reactor-mk7-equipment.png",
     prerequisites = {"adv-fusion-reactor-mk6-equipment"},
     effects =
@@ -230,6 +241,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-laser-defense-mk2-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/laser-defense-mk2-equipment.png",
     prerequisites = {"personal-laser-defense-equipment"},
     effects =
@@ -250,6 +262,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-laser-defense-mk3-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/laser-defense-mk3-equipment.png",
     prerequisites = {"adv-laser-defense-mk2-equipment"},
     effects =
@@ -270,6 +283,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-laser-defense-mk4-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/laser-defense-mk4-equipment.png",
     prerequisites = {"adv-laser-defense-mk3-equipment"},
     effects =
@@ -290,6 +304,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-laser-defense-mk5-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/laser-defense-mk5-equipment.png",
     prerequisites = {"adv-laser-defense-mk4-equipment"},
     effects =
@@ -310,6 +325,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-laser-defense-mk6-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/laser-defense-mk6-equipment.png",
     prerequisites = {"adv-laser-defense-mk5-equipment"},
     effects =
@@ -330,6 +346,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-laser-defense-mk7-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/laser-defense-mk7-equipment.png",
     prerequisites = {"adv-laser-defense-mk6-equipment"},
     effects =
@@ -353,6 +370,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-battery-mk3-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/battery-mk3-equipment.png",
     prerequisites = {"battery-mk2-equipment"},
     effects =
@@ -373,6 +391,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-battery-mk4-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/battery-mk4-equipment.png",
     prerequisites = {"adv-battery-mk3-equipment"},
     effects =
@@ -393,6 +412,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-battery-mk5-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/battery-mk5-equipment.png",
     prerequisites = {"adv-battery-mk4-equipment"},
     effects =
@@ -413,6 +433,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-battery-mk6-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/battery-mk6-equipment.png",
     prerequisites = {"adv-battery-mk5-equipment"},
     effects =
@@ -433,6 +454,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-battery-mk7-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/battery-mk7-equipment.png",
     prerequisites = {"adv-battery-mk6-equipment"},
     effects =
@@ -458,6 +480,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-exoskeleton-mk2-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/exoskeleton-mk2-equipment.png",
     prerequisites = {"exoskeleton-equipment"},
     effects =
@@ -478,6 +501,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-exoskeleton-mk3-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/exoskeleton-mk3-equipment.png",
     prerequisites = {"adv-exoskeleton-mk2-equipment"},
     effects =
@@ -498,6 +522,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-exoskeleton-mk4-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/exoskeleton-mk4-equipment.png",
     prerequisites = {"adv-exoskeleton-mk3-equipment"},
     effects =
@@ -518,6 +543,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-exoskeleton-mk5-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/exoskeleton-mk5-equipment.png",
     prerequisites = {"adv-exoskeleton-mk4-equipment"},
     effects =
@@ -538,6 +564,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-exoskeleton-mk6-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/exoskeleton-mk6-equipment.png",
     prerequisites = {"adv-exoskeleton-mk5-equipment"},
     effects =
@@ -558,6 +585,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-exoskeleton-mk7-equipment",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/exoskeleton-mk7-equipment.png",
     prerequisites = {"adv-exoskeleton-mk6-equipment"},
     effects =
@@ -583,6 +611,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-battery-mk3-equipment-horizontal",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/battery-mk3-equipment-horizontal.png",
     prerequisites = {"adv-battery-mk3-equipment"},
     effects =
@@ -603,6 +632,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-battery-mk4-equipment-horizontal",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/battery-mk4-equipment-horizontal.png",
     prerequisites = {"adv-battery-mk4-equipment"},
     effects =
@@ -623,6 +653,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-battery-mk5-equipment-horizontal",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/battery-mk5-equipment-horizontal.png",
     prerequisites = {"adv-battery-mk5-equipment"},
     effects =
@@ -643,6 +674,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-battery-mk6-equipment-horizontal",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/battery-mk6-equipment-horizontal.png",
     prerequisites = {"adv-battery-mk6-equipment"},
     effects =
@@ -663,6 +695,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-battery-mk7-equipment-horizontal",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/battery-mk7-equipment-horizontal.png",
     prerequisites = {"adv-battery-mk7-equipment"},
     effects =
@@ -687,6 +720,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-advanced-body-armor-mk1",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/advanced-body-armor-mk1.png",
     effects =
     {
@@ -699,7 +733,7 @@ data:extend(
     unit =
     {
       count = 150,
-      ingredients = {{"science-pack-1", 2}, {"science-pack-2", 2}, {"science-pack-3", 2}, {"alien-science-pack", 5}},
+      ingredients = {{"science-pack-1", 2}, {"science-pack-2", 2}, {"science-pack-3", 2}, {"high-tech-science-pack", 5}},
       time = 30
     },
     order = "g-c-b"
@@ -707,6 +741,7 @@ data:extend(
   {
     type = "technology",
     name = "adv-advanced-body-armor-mk2",
+	icon_size = 64,
     icon = "__AdvancedEquipment__/graphics/technology/advanced-body-armor-mk2.png",
     effects =
     {
@@ -719,7 +754,7 @@ data:extend(
     unit =
     {
       count = 150,
-      ingredients = {{"science-pack-1", 4}, {"science-pack-2", 4}, {"science-pack-3", 4}, {"alien-science-pack", 10}},
+      ingredients = {{"science-pack-1", 4}, {"science-pack-2", 4}, {"science-pack-3", 4}, {"high-tech-science-pack", 10}},
       time = 30
     },
     order = "g-c-b"

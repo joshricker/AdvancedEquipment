@@ -1,9 +1,9 @@
 {
 	"name":"AdvancedEquipment",
 	"author":"Darius456, Codec",
-	"version":"0.9.2",
+	"version":"1.0.1",
 	"title":"AdvancedEquipment",
-	"factorio_version": "0.13",
+	"factorio_version": "0.15",
 	"homepage":"",
 	"description":"Better Equipment... MKII, MKIII,... etc.",
 	"dependencies": ["base"]

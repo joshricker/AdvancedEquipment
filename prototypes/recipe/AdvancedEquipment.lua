@@ -35,8 +35,7 @@ data:extend(
     {
       {"speed-module-2", 15},
       {"effectivity-module-2", 15},
-      {"productivity-module-2", 15},
-      {"alien-artifact", 30}
+      {"productivity-module-2", 15}
     },
     result = "adv-energy-shield-mk5-equipment"
   },
@@ -119,8 +118,7 @@ data:extend(
     {
       {"speed-module-2", 20},
       {"productivity-module-2", 20},
-      {"advanced-circuit", 100},
-      {"alien-artifact", 60}
+      {"advanced-circuit", 100}
     },
     result = "adv-fusion-reactor-mk5-equipment"
   },
@@ -207,8 +205,7 @@ data:extend(
     {
       {"adv-laser-defense-mk4-equipment", 1},
       {"productivity-module-2", 20},
-      {"advanced-circuit", 50},
-      {"alien-artifact", 30}
+      {"advanced-circuit", 50}
     },
     result = "adv-laser-defense-mk5-equipment"
   },
@@ -282,8 +279,7 @@ data:extend(
     {
       {"productivity-module-2", 15},
       {"steel-plate", 50},
-      {"advanced-circuit", 50},
-      {"alien-artifact", 20}
+      {"advanced-circuit", 50}
     },
     result = "adv-battery-mk5-equipment"
   },
@@ -477,8 +473,7 @@ data:extend(
 	  {"effectivity-module-3", 25},
 	  {"power-armor-mk2", 1},
 	  {"speed-module-3", 25},
-	  {"steel-plate", 100},
-	  {"alien-artifact", 100}
+	  {"steel-plate", 100}
 	},
     result = "adv-advanced-body-armor-mk1"
   },
@@ -492,8 +487,7 @@ data:extend(
 	  {"effectivity-module-3", 50},
 	  {"adv-advanced-body-armor-mk1", 1},
 	  {"speed-module-3", 50},
-	  {"steel-plate", 350},
-	  {"alien-artifact", 250}
+	  {"steel-plate", 350}
 	},
     result = "adv-advanced-body-armor-mk2"
   }

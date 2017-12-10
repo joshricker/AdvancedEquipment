@@ -364,7 +364,20 @@ data:extend(
 
 
 
-
+  {
+	type = "equipment-grid",
+	name = "adv_14x14",
+	width = 14,
+	height = 14,
+	equipment_categories = {"armor"}
+  },
+  {
+	type = "equipment-grid",
+	name = "adv_20x20",
+	width = 20,
+	height = 20,
+	equipment_categories = {"armor"}
+  },
 
 
   {
@@ -399,7 +412,7 @@ data:extend(
     group = "combat", subgroup = "advanced-equipment-equipment-exo",
     order = "p-a-mk-4",
     stack_size = 1,
-    equipment_grid = {width = 12, height = 12},
+    equipment_grid = "adv_14x14",
 	inventory_size_bonus = 40
   },
 
@@ -435,7 +448,7 @@ data:extend(
     group = "combat", subgroup = "advanced-equipment-equipment-exo",
     order = "p-a-mk-5",
     stack_size = 1,
-    equipment_grid = {width = 20, height = 20},
+    equipment_grid = "adv_20x20",
 	inventory_size_bonus = 50
   }
 
