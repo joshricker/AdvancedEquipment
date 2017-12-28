@@ -3,8 +3,8 @@
 	"author":"Darius456, Codec",
 	"version":"1.0.1",
 	"title":"AdvancedEquipment",
-	"factorio_version": "0.15",
+	"factorio_version": "0.16",
 	"homepage":"",
 	"description":"Better Equipment... MKII, MKIII,... etc.",
-	"dependencies": ["base"]
+	"dependencies": ["base", "? bobmodules"]
 }
